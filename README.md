@@ -22,7 +22,7 @@ CISM · CEH · Azure · AWS · Singapore
 
 | Severity | Domain | Details |
 |---|---|---|
-| ![CRITICAL](https://img.shields.io/badge/CRITICAL-E24B4A?style=flat-square) | Detection Engineering & threat hunting | Built detection logic and hunting programs that catch Threat actors |
+| ![CRITICAL](https://img.shields.io/badge/CRITICAL-E24B4A?style=flat-square) | Detection Engineering & SecOps | Built detection logic and hunting programs that catch Threat actors |
 | ![CRITICAL](https://img.shields.io/badge/CRITICAL-E24B4A?style=flat-square) | Security leadership | Built teams from zero, scaled them with outcome-driven OKRs, made risk legible to the board |
 | ![HIGH](https://img.shields.io/badge/HIGH-BA7517?style=flat-square) | Security automation | Automated the SOC's busywork - Python + SOAR pipelines that cut manual triage to minutes |
 | ![MEDIUM](https://img.shields.io/badge/MEDIUM-7F77DD?style=flat-square) | FDE / Developer | In-house Security tooling @ TikTok [ WAF / Endpoint-SDK / Intelligence Engine ] |
