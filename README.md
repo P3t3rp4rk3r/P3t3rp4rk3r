@@ -15,17 +15,17 @@ CISM · CEH · Azure · AWS · Singapore
 ### Languages and tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,bash,docker,linux,aws,azure,elasticsearch,cloudflare,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,bash,linux,aws,azure,elasticsearch,cloudflare,github,vscode" />
 </p>
 
 ### Affected skill areas
 
 | Severity | Domain | Details |
 |---|---|---|
-| ![CRITICAL](https://img.shields.io/badge/CRITICAL-E24B4A?style=flat-square) | Detection Engineering & threat hunting | Built detection logic and hunting programs that catch what signature-based tools miss |
+| ![CRITICAL](https://img.shields.io/badge/CRITICAL-E24B4A?style=flat-square) | Detection Engineering & threat hunting | Built detection logic and hunting programs that catch Threat actors |
 | ![CRITICAL](https://img.shields.io/badge/CRITICAL-E24B4A?style=flat-square) | Security leadership | Built teams from zero, scaled them with outcome-driven OKRs, made risk legible to the board |
-| ![HIGH](https://img.shields.io/badge/HIGH-BA7517?style=flat-square) | Security automation | Automated the SOC's busywork — Python + SOAR pipelines that cut manual triage to minutes |
-| ![MEDIUM](https://img.shields.io/badge/MEDIUM-7F77DD?style=flat-square) | AI / LLM security | Applying OWASP LLM Top 10 and NIST AI RMF thinking to secure what's built next |
+| ![HIGH](https://img.shields.io/badge/HIGH-BA7517?style=flat-square) | Security automation | Automated the SOC's busywork - Python + SOAR pipelines that cut manual triage to minutes |
+| ![MEDIUM](https://img.shields.io/badge/MEDIUM-7F77DD?style=flat-square) | FDE / Developer | In-house Security tooling @ TikTok [ WAF / Endpoint-SDK / Intelligence Engine ] |
 
 ### Proof of concept
 
